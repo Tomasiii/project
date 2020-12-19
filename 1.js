@@ -1,0 +1,1 @@
+const a = confirm('are you hire');
